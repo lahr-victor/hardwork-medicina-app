@@ -4,7 +4,7 @@ import HomeButton from '@/components/ui/homeButton';
 
 export default function Header() {
   return (
-    <header className="flex flex-row justify-between px-4 py-3 bg-custom-dark-gray">
+    <header className="flex flex-row w-full items-center justify-between px-4 py-3 fixed top-0 bg-custom-dark-gray">
       <Image
         src="/images/hardwork-full-logo.svg"
         alt="logo da Hardwork Medicina"
