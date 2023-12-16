@@ -4,8 +4,7 @@
         "es2021": true
     },
     "extends": [
-        "airbnb",
-        "next"
+        "next/core-web-vitals"
     ],
     "parserOptions": {
         "ecmaVersion": "latest",
