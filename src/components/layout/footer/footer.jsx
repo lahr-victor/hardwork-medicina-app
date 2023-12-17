@@ -2,7 +2,7 @@ import Image from 'next/image';
 
 export default function Footer() {
   return (
-    <footer className="fixed bottom-0 flex flex-row items-center justify-between w-full px-4 pt-6 pb-3 bg-custom-dark-gray">
+    <footer className="fixed bottom-0 flex flex-row items-end justify-between w-full h-16 px-4 py-3 bg-custom-dark-gray">
       <Image
         src="/images/hardwork-wordmark.png"
         alt="wordmark da Hardwork Medicina"
