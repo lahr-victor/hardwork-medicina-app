@@ -5,7 +5,7 @@ export default function HomeButton() {
   return (
     <Link href="/">
       <button type="button" className="flex flex-row gap-1">
-        <div className="h-10 w-fit p-1 flex items-center justify-center rounded-md text-3xl bg-white text-black">
+        <div className="flex items-center justify-center h-10 p-1 text-3xl text-black bg-white rounded-md w-fit">
           <GoHomeFill />
         </div>
         <p className="flex items-center justify-center text-sm font-bold">
