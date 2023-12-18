@@ -10,6 +10,8 @@ module.exports = {
       colors: {
         'custom-dark-gray': '#1e1e1e',
         'custom-light-gray': '#6e6e6e',
+        'custom-purple': '#ae5dc3',
+        'custom-pink': '#fd317b'
       },
     },
   },
