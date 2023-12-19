@@ -1,7 +1,5 @@
 import CardButton from './cardButton';
 
-import { MdQuestionAnswer } from "react-icons/md";
-
 export default function Card({ Icon, title, text, buttonHref, buttonText }) {
   return (
     <section className="flex flex-col w-full gap-6 p-4 rounded-md bg-gradient-to-br from-custom-purple to-custom-pink">
