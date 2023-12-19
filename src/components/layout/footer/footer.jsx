@@ -8,8 +8,9 @@ export default function Footer() {
         alt="wordmark da Hardwork Medicina"
         height={25}
         width={88}
+        className="pr-3"
       />
-      <div className="flex flex-col gap-1 text-xs text-right text-custom-light-gray">
+      <div className="flex flex-col gap-1 text-xs font-thin tracking-tighter text-right text-custom-light-gray">
         <p>© Copyright 2023 HWM</p>
         <p>Políticas de privacidade • Termos de uso</p>
       </div>
