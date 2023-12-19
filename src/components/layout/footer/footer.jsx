@@ -6,9 +6,9 @@ export default function Footer() {
       <Image
         src="/images/hardwork-wordmark.png"
         alt="wordmark da Hardwork Medicina"
-        height={25}
+        height={0}
         width={88}
-        className="pr-3"
+        className="h-auto pr-3"
       />
       <div className="flex flex-col gap-1 text-xs font-thin tracking-tighter text-right text-custom-light-gray">
         <p>© Copyright 2023 HWM</p>

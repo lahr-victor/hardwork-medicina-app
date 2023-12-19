@@ -11,8 +11,8 @@ export default function Header() {
           src="/images/hardwork-full-logo.svg"
           alt="logo da Hardwork Medicina"
           height={0}
-          width={0}
-          className="w-auto h-10 pr-3"
+          width={150}
+          className="h-auto pr-3"
         />
       </Link>
       <div className="flex flex-row items-center gap-4">
@@ -22,7 +22,7 @@ export default function Header() {
           alt="foto de perfil do usuário"
           height={0}
           width={40}
-          className="w-auto rounded-md"
+          className="h-auto rounded-md"
         />
       </div>
     </header>
